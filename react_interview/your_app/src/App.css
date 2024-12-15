@@ -1,0 +1,47 @@
+body{
+    background-color: rgb(226, 226, 226);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    height: 100vh;
+    box-sizing: border-box;
+}
+
+
+/*task1*/
+.change_thems{
+    background-color: #000000;
+    color: #fff;
+}
+
+/*task2*/
+form{
+    width: 500px;
+    padding: 10px;
+    margin: 20px;
+}
+
+form p{
+    padding: 0;
+    margin: 5px 0;
+}
+
+form button{
+    margin: 10px 0;
+}
+
+/*task3*/
+.task3_button{
+    margin: 10px 0;
+}
+
+/*task4 için*/
+.task4_buttons{
+    margin: 10px;
+}
+
+/*task5 için*/
+.task5_buttons{
+    margin: 10px;
+}

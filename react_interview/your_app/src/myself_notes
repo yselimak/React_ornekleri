@@ -1,0 +1,13 @@
+//props -> veri aktarımı
+//components -> tekrar tekrar kullanılabilen bileşenler
+
+//hookslar:
+//useState: veri saklar bi nevi
+
+//map: array ile çalışır ve ekrana yazdırmaya yarar
+//bir veriyi ekrana mapllerken key parametresi genelde kullanılır
+
+//useEffect: sayfa yüklendiğinde yapacağımız işler için kullanılır
+//useEffectin ikinci parametresi her güncellendiğinde useEffect fonksiyonu da çalışır
+//bir kere çalışmasını istiyorsak boş bir dizi '[ ]' verebiliriz
+
